@@ -10,3 +10,6 @@ git remote set-url <url>: Fot set the Personal Access Token(PAT)
 git remote -v: For get the repository path
 git remote add origin <url>: For push code to git hub
 git push origin master: For push files to github
+
+
+This is somre new changes
