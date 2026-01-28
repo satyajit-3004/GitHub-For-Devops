@@ -1,0 +1,8 @@
+git init: Create a new Git repository
+git status: Check the status of the repository
+git add testing.py: Add a file to the staging area
+git add .: Add all file to the staging area
+git rm --cached testing.py: To unstage file
+git commit -m "added testing files" : commit changes with message (stage -> tracked)
+rm testing.py: TO delete the file
+git restore testing.py: To restore the file
