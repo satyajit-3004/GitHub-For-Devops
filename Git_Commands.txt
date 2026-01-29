@@ -13,3 +13,8 @@ git push origin master: For push files to github
 
 
 This is somre new changes
+git log / git log --oneline
+git checkout -b /
+git switch <branch name> / git checkout <branch name>
+git fetch
+
